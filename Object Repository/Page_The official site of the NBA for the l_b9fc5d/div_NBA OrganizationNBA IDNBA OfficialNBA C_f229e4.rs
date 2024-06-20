@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NBA OrganizationNBA IDNBA OfficialNBA C_f229e4</name>
+   <tag></tag>
+   <elementGuidId>81871f2f-54a3-47de-8740-6c0ecd8aea25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Footer_footerInner__vNMTd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/footer/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff9f0bfa-36e1-4d1c-ba5b-efb36dc446a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Footer_footerInner__vNMTd</value>
+      <webElementGuid>d3cdd8f4-eea4-43e9-a9ab-92121fe5aaf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NBA OrganizationNBA IDNBA OfficialNBA CareersNBA Fan Code of ConductNBA InitiativesNBA CaresJr. NBANBA FoundationSocial Justice CoalitionAcross The LeagueNBA CommunicationsLockervisionNBA TransactionsShopGlobal StoresNYC StoreNBA AuctionsNBA PhotostoreSubscriptionsLeague PassCustomer Support© 2023 NBA Media Ventures, LLC. All rights reserved.Privacy PolicyEEA/UK Privacy StatementBrazil Privacy Statement Colorado Consumer Privacy StatementCalifornia Consumer Privacy StatementTerms of UseCookie PolicyAccessibility and Closed CaptionsCustomer SupportYour Privacy ChoicesIf you are having difficulty accessing any content on this website, please visit our Accessibility page.NBA.com is part of Warner Media, LLC’s Turner Sports &amp; Entertainment Digital Network</value>
+      <webElementGuid>c64faf49-8959-4ddc-b185-1b0939ad3217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Layout_base__6IeUC Layout_justNav__2H4H0 Layout_withShortStrip__krLX0 Layout_withSubHeaderSpace__gJ_ZU&quot;]/footer[@class=&quot;Footer_footer__nKPS_&quot;]/div[@class=&quot;Footer_footerInner__vNMTd&quot;]</value>
+      <webElementGuid>f207aae7-20ca-41a0-a0e4-384bdef52299</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/footer/div</value>
+      <webElementGuid>ba7a295f-1fcd-4411-8f33-59939ed1e69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div</value>
+      <webElementGuid>5fef159c-2d47-4d74-991a-bc42f761cf73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NBA OrganizationNBA IDNBA OfficialNBA CareersNBA Fan Code of ConductNBA InitiativesNBA CaresJr. NBANBA FoundationSocial Justice CoalitionAcross The LeagueNBA CommunicationsLockervisionNBA TransactionsShopGlobal StoresNYC StoreNBA AuctionsNBA PhotostoreSubscriptionsLeague PassCustomer Support© 2023 NBA Media Ventures, LLC. All rights reserved.Privacy PolicyEEA/UK Privacy StatementBrazil Privacy Statement Colorado Consumer Privacy StatementCalifornia Consumer Privacy StatementTerms of UseCookie PolicyAccessibility and Closed CaptionsCustomer SupportYour Privacy ChoicesIf you are having difficulty accessing any content on this website, please visit our Accessibility page.NBA.com is part of Warner Media, LLC’s Turner Sports &amp; Entertainment Digital Network' or . = 'NBA OrganizationNBA IDNBA OfficialNBA CareersNBA Fan Code of ConductNBA InitiativesNBA CaresJr. NBANBA FoundationSocial Justice CoalitionAcross The LeagueNBA CommunicationsLockervisionNBA TransactionsShopGlobal StoresNYC StoreNBA AuctionsNBA PhotostoreSubscriptionsLeague PassCustomer Support© 2023 NBA Media Ventures, LLC. All rights reserved.Privacy PolicyEEA/UK Privacy StatementBrazil Privacy Statement Colorado Consumer Privacy StatementCalifornia Consumer Privacy StatementTerms of UseCookie PolicyAccessibility and Closed CaptionsCustomer SupportYour Privacy ChoicesIf you are having difficulty accessing any content on this website, please visit our Accessibility page.NBA.com is part of Warner Media, LLC’s Turner Sports &amp; Entertainment Digital Network')]</value>
+      <webElementGuid>5ff8a9aa-f012-4a31-997d-70a7fe379bc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

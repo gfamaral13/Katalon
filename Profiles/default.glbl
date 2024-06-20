@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'perfilmanagerintranet@moxie.pt'</initValue>
+      <name>userManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'perfilcolaboradorintranet@moxie.pt'</initValue>
+      <name>userColaborador</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'goncalo.amaral@moxie.pt'</initValue>
+      <name>userAmaral</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pwd123$'</initValue>
+      <name>pwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Moxie_2023!'</initValue>
+      <name>passwordAmaral</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

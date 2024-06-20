@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>3b45fe5c-03d7-4b40-8ae2-60fa29351e9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(10) > div:nth-of-type(2) > div > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[10]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d649809d-002f-4d2a-a819-b3214e71a97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js no-touch cssanimations csstransitions&quot;]/body[@class=&quot;home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-782032 with-header--solid&quot;]/div[10]/div[2]/div[1]/a[1]</value>
+      <webElementGuid>aeae1e07-498a-4362-9e4b-bb1ee647acc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div/a</value>
+      <webElementGuid>b814debd-01d9-4092-8876-2c68145d2046</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

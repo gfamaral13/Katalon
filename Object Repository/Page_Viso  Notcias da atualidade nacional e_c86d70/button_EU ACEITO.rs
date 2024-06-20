@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EU ACEITO</name>
+   <tag></tag>
+   <elementGuidId>82498284-0643-4765-9767-b563ae5fe305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e14f013-25ad-4195-b880-b447ac8b20ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mode</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>26cab627-ad91-447f-8220-2473fce9a491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>large</value>
+      <webElementGuid>ae66fac8-db40-4ad6-9aeb-913e3f0b86a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-47sehv</value>
+      <webElementGuid>fe0d4d81-a519-442a-9a53-98d970fc595e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EU ACEITO</value>
+      <webElementGuid>b04d91df-104c-46b3-a009-6e55655b16b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qc-cmp2-ui&quot;)/div[@class=&quot;qc-cmp2-footer qc-cmp2-footer-overlay qc-cmp2-footer-scrolled&quot;]/div[@class=&quot;qc-cmp2-summary-buttons&quot;]/button[@class=&quot;css-47sehv&quot;]</value>
+      <webElementGuid>78ec3f0d-dd81-4b4e-94b9-be307a425c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]</value>
+      <webElementGuid>2d25bf5e-2607-487b-8360-fdc66b1f59a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1b029025-b46c-4a9d-b529-0b76018dc931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'EU ACEITO' or . = 'EU ACEITO')]</value>
+      <webElementGuid>0f086b0d-ce77-464d-acf9-030a62befd67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

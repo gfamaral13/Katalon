@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NBA Organization</name>
+   <tag></tag>
+   <elementGuidId>89b0ecad-57d3-4ce6-8aab-7f61a56e901b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.FooterList_footerlistTitleText__7An1u</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/footer/div/section/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ed3402d-e1cb-4ddb-bcb7-0525e6fdb026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FooterList_footerlistTitleText__7An1u</value>
+      <webElementGuid>d3b6d4d9-339d-423d-8f6b-374a8fa53401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NBA Organization</value>
+      <webElementGuid>86828958-42a4-4b66-930f-7c6d93ca0d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Layout_base__6IeUC Layout_justNav__2H4H0 Layout_withShortStrip__krLX0 Layout_withSubHeaderSpace__gJ_ZU&quot;]/footer[@class=&quot;Footer_footer__nKPS_&quot;]/div[@class=&quot;Footer_footerInner__vNMTd&quot;]/section[@class=&quot;FooterLinksSection_fls__crUES&quot;]/div[@class=&quot;FooterList_footerlist__D_C4M&quot;]/button[@class=&quot;FooterList_footerlistTitle__EcG7e&quot;]/span[@class=&quot;FooterList_footerlistTitleText__7An1u&quot;]</value>
+      <webElementGuid>af0e4bd9-85e0-42f6-8775-9ac7bbd5b7ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/footer/div/section/div/button/span</value>
+      <webElementGuid>11465a92-339d-40bc-82b8-e1b9ff4cb390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button/span</value>
+      <webElementGuid>b0f3ee18-b7e0-4e59-9b51-b2447d75351e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'NBA Organization' or . = 'NBA Organization')]</value>
+      <webElementGuid>126727a9-c22e-45f6-9225-a28942dfa8cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Avanar</name>
+   <tag></tag>
+   <elementGuidId>0d8afaa3-56cd-45ae-877a-638fae2d3cfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>275aea95-775f-472b-9430-c9c82e4bca05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avançar</value>
+      <webElementGuid>7e6a6d03-eaee-444d-81eb-621d37de49ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;t-pubbox-interstitial js-pubbox-interstitial&quot;]/div[@class=&quot;t-pubbox-head&quot;]/div[@class=&quot;t-pubbox-h-i&quot;]/div[@class=&quot;t-pubbox-h-skip-btn&quot;]/a[1]/strong[1]</value>
+      <webElementGuid>761fb139-26d0-4560-818c-17d089198f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_TSF Rdio Notcias/iframe_google_ads_iframe_5268tsf.pthomepage_0</value>
+      <webElementGuid>885cc236-62d0-4d94-9be2-9755ad7f593f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>3ab7e81a-3905-47ee-85a5-1bbae5db9cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Avançar' or . = 'Avançar')]</value>
+      <webElementGuid>c4376920-b066-492c-ab9b-edc72ba3d279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CONCORDO</name>
+   <tag></tag>
+   <elementGuidId>62038fec-da51-417b-82b5-6f5aec8b32c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>60115900-f9ed-4cd3-8868-661191dbaa72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONCORDO</value>
+      <webElementGuid>0a486024-3cae-4bb9-995c-eccc24d4973a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qc-cmp2-ui&quot;)/div[@class=&quot;qc-cmp2-footer qc-cmp2-footer-overlay qc-cmp2-footer-scrolled&quot;]/div[@class=&quot;qc-cmp2-summary-buttons&quot;]/button[@class=&quot;css-wum6af&quot;]/span[1]</value>
+      <webElementGuid>724c5443-feb4-4693-b34d-ec2111af0dd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]/span</value>
+      <webElementGuid>a5004a29-4291-4758-bc17-0031f6618de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>1aabd7ce-b646-4ac0-94fa-0bd845f6daf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CONCORDO' or . = 'CONCORDO')]</value>
+      <webElementGuid>151ab62d-fe34-40e3-99f4-1208bcceb402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

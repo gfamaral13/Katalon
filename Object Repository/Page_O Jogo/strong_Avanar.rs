@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Avanar</name>
+   <tag></tag>
+   <elementGuidId>dd223dd6-fb0c-4aee-9686-4e2c35ef1553</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>97fec487-2fd5-422e-8e6e-6da6c53db435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avançar</value>
+      <webElementGuid>8dc1f603-5d99-4b47-8298-cd47bc3e234a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;t-pubbox-interstitial js-pubbox-interstitial&quot;]/div[@class=&quot;t-pubbox-head&quot;]/div[@class=&quot;t-pubbox-h-i&quot;]/div[@class=&quot;t-pubbox-h-skip-btn&quot;]/a[1]/strong[1]</value>
+      <webElementGuid>453238b1-6e44-4dca-a76b-a1df259bd1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_O Jogo/iframe_google_ads_iframe_5268ojogo.pthome_0</value>
+      <webElementGuid>6ea7606e-5751-46d7-ac37-5746544a47a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>33f2ed95-7ab2-4fac-8950-477a4b9d59a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Avançar' or . = 'Avançar')]</value>
+      <webElementGuid>7e83999d-8aba-4b8b-8774-e16fcd1f0c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

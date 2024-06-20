@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EU ACEITO</name>
+   <tag></tag>
+   <elementGuidId>ddc25cd6-0182-4b98-93c8-e62de382a9de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>411171d0-343d-47ef-ac9f-3998a259274f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EU ACEITO</value>
+      <webElementGuid>e653b48e-d222-45ee-835c-6f7e43406439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qc-cmp2-ui&quot;)/div[@class=&quot;qc-cmp2-footer qc-cmp2-footer-overlay qc-cmp2-footer-scrolled&quot;]/div[@class=&quot;qc-cmp2-summary-buttons&quot;]/button[@class=&quot;css-47sehv&quot;]/span[1]</value>
+      <webElementGuid>ec6b77e6-7fcc-477b-9438-81d7941c47e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qc-cmp2-ui']/div[2]/div/button[2]/span</value>
+      <webElementGuid>6827076e-f625-49b0-bcad-0b719eea4e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>8df38000-126d-4818-a2f7-e8306ea17eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'EU ACEITO' or . = 'EU ACEITO')]</value>
+      <webElementGuid>0b870abc-3968-4cf7-94aa-1c6c076b7c70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

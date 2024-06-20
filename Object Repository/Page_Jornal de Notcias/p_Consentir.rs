@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Consentir</name>
+   <tag></tag>
+   <elementGuidId>b799d7b7-be37-45f7-9034-394e05d3a29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fc-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1f8569f5-6b61-4466-8e72-5f00d11f4752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-button-label</value>
+      <webElementGuid>704440e9-6538-48b1-9d7c-98dd75544828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consentir</value>
+      <webElementGuid>729c2109-66da-4047-ba1d-ae1b7613bb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-body&quot;]/div[@class=&quot;fc-consent-root&quot;]/div[@class=&quot;fc-dialog-container&quot;]/div[@class=&quot;fc-dialog fc-choice-dialog&quot;]/div[@class=&quot;fc-footer-buttons-container&quot;]/div[@class=&quot;fc-footer-buttons&quot;]/button[@class=&quot;fc-button fc-cta-consent fc-primary-button&quot;]/p[@class=&quot;fc-button-label&quot;]</value>
+      <webElementGuid>8f7d5016-bc62-4a68-b267-af92861375ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>79a1566a-f784-4983-8b49-ef7694b95f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Consentir' or . = 'Consentir')]</value>
+      <webElementGuid>cebeb412-8a5d-4aca-8c96-cd75062b9791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

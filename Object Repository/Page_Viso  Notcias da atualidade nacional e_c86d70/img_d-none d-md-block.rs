@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_d-none d-md-block</name>
+   <tag></tag>
+   <elementGuidId>7969e7ef-78c5-47c3-8c5c-43b4250ea413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.d-none.d-md-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Visão']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8800c1ef-4d12-45c1-be43-428055120940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-md-block</value>
+      <webElementGuid>4b3218c3-5ec9-4ea1-9b53-306969ec34bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.trustinnews.pt/uploads/sites/5/2019/11/Logo_Visão_120px.png</value>
+      <webElementGuid>12834d91-2ba1-42bd-ad9d-ef35f61a68c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Visão</value>
+      <webElementGuid>633929a1-583c-46b3-aa95-eb3fb9864491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home page-template page-template-template-full template-full page page-id-69 wp-embed-responsive tin-submenu app-data index-data singular-data page-data page-69-data page-hp-data template-full-data front-page-data&quot;]/header[@class=&quot;site-header&quot;]/div[@class=&quot;sticky-part&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-menu&quot;]/div[@class=&quot;container d-flex justify-content-between align-items-center header-primary-bar position-relative&quot;]/a[@class=&quot;brand&quot;]/img[@class=&quot;d-none d-md-block&quot;]</value>
+      <webElementGuid>079888b5-84a2-4aeb-a558-d1724d124b33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Visão']</value>
+      <webElementGuid>67780dae-6547-43c6-8107-523d3c1e322e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/img</value>
+      <webElementGuid>0942cb34-f7c2-478e-a7ff-6229dee62285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.trustinnews.pt/uploads/sites/5/2019/11/Logo_Visão_120px.png' and @alt = 'Visão']</value>
+      <webElementGuid>2d91c300-cadf-4cdf-aa99-f8b5f455056a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

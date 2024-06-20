@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deputados</name>
+   <tag></tag>
+   <elementGuidId>46892a5b-8f8b-4dd1-b2c7-066bff119850</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='accordionAction(1, 1);']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c439c7a-3e4e-4000-9419-8470bfa74e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_m_accordion90</value>
+      <webElementGuid>d2aad14d-4ffc-4534-bb5e-c63f64e7ddf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Link Deputados</value>
+      <webElementGuid>dd3356fb-36ee-449d-9a8a-8bcc347b823b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#collapse1</value>
+      <webElementGuid>e9cf79c0-0334-4743-9847-63b097493e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>38499a61-4b5e-4a11-807c-cc7365908263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-parent</name>
+      <type>Main</type>
+      <value>#accordion1</value>
+      <webElementGuid>d2c40445-73e7-4a80-a8e2-25584bf06aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>accordionAction(1, 1);</value>
+      <webElementGuid>066bce79-9b39-4e84-a9fd-05637a8282b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Deputados
+                        
+                    </value>
+      <webElementGuid>7a70b895-8d4c-4708-a6d6-da1abb5c3d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion0&quot;)/div[@class=&quot;panel panel-default&quot;]/a[@class=&quot;menu_m_accordion90&quot;]</value>
+      <webElementGuid>ea1eb27f-84dd-491b-93b8-c93b58b01337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='accordionAction(1, 1);']</value>
+      <webElementGuid>88c9f254-d327-4ed6-9b5c-47d517b9939a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion0']/div/a[2]</value>
+      <webElementGuid>45796241-1869-467b-84e0-4f1135ed9937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Deputados')])[9]</value>
+      <webElementGuid>c0a78172-27f3-4921-912d-1f1aa0ba05b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#collapse1')])[9]</value>
+      <webElementGuid>a8ff052d-f762-44ea-801a-4597598bfb80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a[2]</value>
+      <webElementGuid>c106b61b-05f8-4bba-b306-b18083fe03ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Link Deputados' and @href = '#collapse1' and (text() = '
+                        Deputados
+                        
+                    ' or . = '
+                        Deputados
+                        
+                    ')]</value>
+      <webElementGuid>15fe1b2b-2f20-4d2a-8ee0-6fe17a70a6e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

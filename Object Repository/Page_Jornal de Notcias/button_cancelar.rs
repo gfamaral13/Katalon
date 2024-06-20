@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_cancelar</name>
+   <tag></tag>
+   <elementGuidId>55c2f201-3cc4-42c2-911f-2c03b3aa7375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sk-notification-dialog-button.sk-cancel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0200161a-6be2-42d4-bb71-c398849aadc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sk-notification-dialog-button sk-cancel</value>
+      <webElementGuid>3c38feb8-63a1-4dff-a8a2-e07485be15a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cancelar</value>
+      <webElementGuid>62b13fb3-c511-4aff-86cd-f03e74b8b4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-body&quot;]/div[@class=&quot;sk-notification-dialog sk-showing&quot;]/div[@class=&quot;sk-notification-dialog-actions&quot;]/button[@class=&quot;sk-notification-dialog-button sk-cancel&quot;]</value>
+      <webElementGuid>1c6f3a4e-e959-46db-af0c-34968a7a4aea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>ecf3fa59-77ed-4784-b8fd-40835eee6bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'cancelar' or . = 'cancelar')]</value>
+      <webElementGuid>0eea6d9b-b3a4-49fc-923d-958dbc1969ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

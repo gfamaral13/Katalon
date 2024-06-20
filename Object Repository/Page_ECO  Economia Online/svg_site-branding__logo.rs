@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_site-branding__logo</name>
+   <tag></tag>
+   <elementGuidId>03e14d5a-54c0-4777-a53e-74e9bbd6f46e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.site-branding__logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7f76134c-0777-48c2-9bd5-9cf8e5a9ed2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-branding__logo</value>
+      <webElementGuid>06c02a95-9173-46e6-bdf5-8763d40471de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d94e934a-75d0-4a16-a670-7b16f538d542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 100.51 46</value>
+      <webElementGuid>abd1b057-13b5-4f5e-a348-e7ef90f87e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/nav[@class=&quot;site-header__container&quot;]/div[@class=&quot;site-header__nav-area container&quot;]/div[@class=&quot;site-branding&quot;]/h1[@class=&quot;site-title&quot;]/a[1]/svg[@class=&quot;site-branding__logo&quot;]</value>
+      <webElementGuid>6ca8814e-a0af-4d78-8ac4-46c4a109662d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

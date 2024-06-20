@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aceitar e fechar</name>
+   <tag></tag>
+   <elementGuidId>a84f5500-407d-4668-83d2-839e4a512dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#didomi-notice-agree-button > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='didomi-notice-agree-button']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5462a248-44e4-45b6-a623-f1c6becf61d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceitar e fechar</value>
+      <webElementGuid>79579255-7dfb-467a-822f-a98a2d9c5438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;didomi-notice-agree-button&quot;)/span[1]</value>
+      <webElementGuid>402bfbe2-99d5-4163-a254-5b1cb4f6a2ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='didomi-notice-agree-button']/span</value>
+      <webElementGuid>7f431bce-35aa-4f72-a3d9-76754539a707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>f825e6ec-748e-404b-9542-46dc086ca62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Aceitar e fechar' or . = 'Aceitar e fechar')]</value>
+      <webElementGuid>98bf63ff-b637-47be-a275-b5207006c013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ACEITO</name>
+   <tag></tag>
+   <elementGuidId>7deb61b0-34d7-4743-b4a8-13f5bf0be27a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fc-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7ac3b810-48c7-4ae9-a15a-6b442328451a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-button-label</value>
+      <webElementGuid>fea561ae-d725-46ac-b301-a5cd87d7980a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACEITO</value>
+      <webElementGuid>89fab6c1-d3e3-47e9-bfb5-16ba646c0864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js  webp webp-alpha webp-animation webp-lossless&quot;]/body[@class=&quot;home page-template page-template-elementor_header_footer page page-id-385750 no-sidebar layout-boxed style--dropcap-default dropcap-style-default style--dropcap-font-heading style--tag-block-2 style--tag-block style--list-widget-1 style--tagcloud-1 style--blockquote-no-icon style--single-heading-border_top style--link-2 elementor-default elementor-template-full-width elementor-kit-440702 elementor-page elementor-page-385750 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;fc-consent-root&quot;]/div[@class=&quot;fc-dialog-container&quot;]/div[@class=&quot;fc-dialog fc-choice-dialog&quot;]/div[@class=&quot;fc-footer-buttons-container&quot;]/div[@class=&quot;fc-footer-buttons&quot;]/button[@class=&quot;fc-button fc-cta-consent fc-primary-button&quot;]/p[@class=&quot;fc-button-label&quot;]</value>
+      <webElementGuid>2abe8b32-cc79-4019-8a72-dbe461f20e24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>11edafc4-fade-4565-9f17-32944444fbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ACEITO' or . = 'ACEITO')]</value>
+      <webElementGuid>06b740e9-058e-4b70-ae03-04fcf7b11c0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
