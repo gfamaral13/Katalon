@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Moxie Intranet" time="60.85" tests="4" failures="0" errors="0">
+   <testsuite name="Moxie Intranet" tests="4" failures="0" errors="0" time="60.85" skipped="0" timestamp="08-12-2023T12:33:57" hostname="GoncaloAmaral - MOXIE-AMARAL.lan" id="Test Suites/Moxie Intranet">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231208_123353\\Moxie Intranet\\20231208_123354"/>
+         <property name="logFiles" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231208_123353\\Moxie Intranet\\20231208_123354\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="GoncaloAmaral - MOXIE-AMARAL.lan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.79"/>
+         <property name="sessionId" value="e4b2ad61952c67698ed2dc3da08fe073"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/001 - Moxie Intranet DEV - Login Colaborador" time="16.587" classname="Test Cases/001 - Moxie Intranet DEV - Login Colaborador" status="PASSED">
+         <system-out><![CDATA[08-12-2023T12:33:57 - [TEST_CASE][PASSED] - Test Cases/001 - Moxie Intranet DEV - Login Colaborador: Test Cases/001 - Moxie Intranet DEV - Login Colaborador
+
+08-12-2023T12:33:57 - [TEST_STEP][PASSED] - openBrowser("https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"): Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:33:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T12:33:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T12:34:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+08-12-2023T12:34:01 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T12:34:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_UserEmail"), userColaborador): Text 'perfilcolaboradorintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:07 - [MESSAGE][PASSED] - Text 'perfilcolaboradorintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_Password"), pwd): Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:08 - [MESSAGE][PASSED] - Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Login")): Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:09 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet"), 0): Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+08-12-2023T12:34:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T12:34:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/002 - Moxie Intranet DEV - Login Manager" time="14.361" classname="Test Cases/002 - Moxie Intranet DEV - Login Manager" status="PASSED">
+         <system-out><![CDATA[08-12-2023T12:34:14 - [TEST_CASE][PASSED] - Test Cases/002 - Moxie Intranet DEV - Login Manager: Test Cases/002 - Moxie Intranet DEV - Login Manager
+
+08-12-2023T12:34:14 - [TEST_STEP][PASSED] - openBrowser("https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"): Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T12:34:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T12:34:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:16 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+08-12-2023T12:34:16 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T12:34:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_UserEmail"), userManager): Text 'perfilmanagerintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:23 - [MESSAGE][PASSED] - Text 'perfilmanagerintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_Password"), pwd): Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:24 - [MESSAGE][PASSED] - Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Login")): Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:24 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet"), 0): Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+08-12-2023T12:34:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T12:34:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/001 - Moxie Intranet DEV - Login Colaborador" time="14.541" classname="Test Cases/001 - Moxie Intranet DEV - Login Colaborador" status="PASSED">
+         <system-out><![CDATA[08-12-2023T12:34:28 - [TEST_CASE][PASSED] - Test Cases/001 - Moxie Intranet DEV - Login Colaborador: Test Cases/001 - Moxie Intranet DEV - Login Colaborador
+
+08-12-2023T12:34:28 - [TEST_STEP][PASSED] - openBrowser("https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"): Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T12:34:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T12:34:30 - [MESSAGE][PASSED] - Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+08-12-2023T12:34:30 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T12:34:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_UserEmail"), userColaborador): Text 'perfilcolaboradorintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:37 - [MESSAGE][PASSED] - Text 'perfilcolaboradorintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_Password"), pwd): Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:38 - [MESSAGE][PASSED] - Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Login")): Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:38 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet"), 0): Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+08-12-2023T12:34:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T12:34:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/002 - Moxie Intranet DEV - Login Manager" time="15.172" classname="Test Cases/002 - Moxie Intranet DEV - Login Manager" status="PASSED">
+         <system-out><![CDATA[08-12-2023T12:34:43 - [TEST_CASE][PASSED] - Test Cases/002 - Moxie Intranet DEV - Login Manager: Test Cases/002 - Moxie Intranet DEV - Login Manager
+
+08-12-2023T12:34:43 - [TEST_STEP][PASSED] - openBrowser("https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"): Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T12:34:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T12:34:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home'
+
+08-12-2023T12:34:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+08-12-2023T12:34:45 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T12:34:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_UserEmail"), userManager): Text 'perfilmanagerintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:52 - [MESSAGE][PASSED] - Text 'perfilmanagerintranet@moxie.pt' is set on object 'Object Repository/Page_Login/inputInput_UserEmail'
+
+08-12-2023T12:34:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/inputInput_Password"), pwd): Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:53 - [MESSAGE][PASSED] - Text 'pwd123$' is set on object 'Object Repository/Page_Login/inputInput_Password'
+
+08-12-2023T12:34:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Login")): Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+08-12-2023T12:34:53 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet"), 0): Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+08-12-2023T12:34:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet' is visible
+
+08-12-2023T12:34:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T12:34:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[08-12-2023T12:33:57 - [TEST_SUITE][PASSED] - Moxie Intranet: Test Cases/002 - Moxie Intranet DEV - Login Manager]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

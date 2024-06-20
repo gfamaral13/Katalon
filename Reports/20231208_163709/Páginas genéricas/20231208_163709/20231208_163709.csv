@@ -1,0 +1,87 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Páginas genéricas,Chrome 119.0.0.0,,,08-12-2023 16:37:12,08-12-2023 16:38:47,1m - 35.773s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G01 - Record,Chrome 119.0.0.0,,,08-12-2023 16:37:12,08-12-2023 16:37:30,18.424s,PASSED
+"openBrowser(""https://www.record.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:37:12,08-12-2023 16:37:15,3.290s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:37:15,08-12-2023 16:37:16,0.274s,PASSED
+"waitForElementVisible(findTestObject(""Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:16,08-12-2023 16:37:17,1.139s,PASSED
+"click(findTestObject(""Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO""))",Chrome 119.0.0.0,,,08-12-2023 16:37:17,08-12-2023 16:37:17,0.750s,PASSED
+"waitForElementVisible(findTestObject(""Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:17,08-12-2023 16:37:21,3.293s,PASSED
+"click(findTestObject(""Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR""))",Chrome 119.0.0.0,,,08-12-2023 16:37:21,08-12-2023 16:37:22,1.371s,PASSED
+"waitForElementVisible(findTestObject(""Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:22,08-12-2023 16:37:22,0.333s,PASSED
+"click(findTestObject(""Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar""))",Chrome 119.0.0.0,,,08-12-2023 16:37:22,08-12-2023 16:37:23,0.452s,PASSED
+"click(findTestObject(""Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica""))",Chrome 119.0.0.0,,,08-12-2023 16:37:23,08-12-2023 16:37:25,1.683s,PASSED
+"click(findTestObject(""Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO""))",Chrome 119.0.0.0,,,08-12-2023 16:37:25,08-12-2023 16:37:25,0.756s,PASSED
+"waitForElementVisible(findTestObject(""Page_Todas as notcias de Benfica na Liga Nos/a_Benfica""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:25,08-12-2023 16:37:28,2.919s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica""))",Chrome 119.0.0.0,,,08-12-2023 16:37:28,08-12-2023 16:37:29,1.017s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:29,08-12-2023 16:37:30,0.309s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica""))",Chrome 119.0.0.0,,,08-12-2023 16:37:30,08-12-2023 16:37:30,0.320s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:37:30,08-12-2023 16:37:30,0.281s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G02 - A Bola,Chrome 119.0.0.0,,,08-12-2023 16:37:30,08-12-2023 16:37:37,6.503s,PASSED
+"openBrowser(""https://www.abola.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:37:30,08-12-2023 16:37:32,2.056s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:37:32,08-12-2023 16:37:32,0.142s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:32,08-12-2023 16:37:34,1.177s,PASSED
+"click(findTestObject(""Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito""))",Chrome 119.0.0.0,,,08-12-2023 16:37:34,08-12-2023 16:37:34,0.370s,PASSED
+"click(findTestObject(""Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0""))",Chrome 119.0.0.0,,,08-12-2023 16:37:34,08-12-2023 16:37:35,1.196s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:35,08-12-2023 16:37:37,1.347s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:37:37,08-12-2023 16:37:37,0.134s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G03 - O Jogo,Chrome 119.0.0.0,,,08-12-2023 16:37:37,08-12-2023 16:37:50,13.083s,PASSED
+"openBrowser(""https://www.ojogo.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:37:37,08-12-2023 16:37:39,2.065s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:37:39,08-12-2023 16:37:39,0.139s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_O Jogo/p_Consentir""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:39,08-12-2023 16:37:41,2.235s,PASSED
+"click(findTestObject(""Object Repository/Page_O Jogo/p_Consentir""))",Chrome 119.0.0.0,,,08-12-2023 16:37:41,08-12-2023 16:37:42,0.692s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_O Jogo/strong_Avanar""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:42,08-12-2023 16:37:44,2.587s,PASSED
+"click(findTestObject(""Object Repository/Page_O Jogo/strong_Avanar""))",Chrome 119.0.0.0,,,08-12-2023 16:37:44,08-12-2023 16:37:46,1.254s,PASSED
+"click(findTestObject(""Object Repository/Page_O Jogo/img_img-fluid""))",Chrome 119.0.0.0,,,08-12-2023 16:37:46,08-12-2023 16:37:47,1.538s,PASSED
+"click(findTestObject(""Object Repository/Page_Benfica - O Jogo/strong_Avanar""))",Chrome 119.0.0.0,,,08-12-2023 16:37:47,08-12-2023 16:37:49,1.740s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Benfica - O Jogo/div_Benfica""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:49,08-12-2023 16:37:50,0.498s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:37:50,08-12-2023 16:37:50,0.259s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G05 - Sábado,Chrome 119.0.0.0,,,08-12-2023 16:37:50,08-12-2023 16:37:55,5.729s,PASSED
+"openBrowser(""https://www.sabado.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:37:50,08-12-2023 16:37:52,2.650s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_SBADO/span_CONCORDO""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:52,08-12-2023 16:37:54,1.097s,PASSED
+"click(findTestObject(""Object Repository/Page_SBADO/span_CONCORDO""))",Chrome 119.0.0.0,,,08-12-2023 16:37:54,08-12-2023 16:37:54,0.429s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SBADO/a_Sbado""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:54,08-12-2023 16:37:55,1.343s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:37:55,08-12-2023 16:37:55,0.134s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G06 - Visão,Chrome 119.0.0.0,,,08-12-2023 16:37:55,08-12-2023 16:38:04,8.827s,PASSED
+"openBrowser(""https://visao.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:37:56,08-12-2023 16:37:58,2.446s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:37:58,08-12-2023 16:37:58,0.138s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:58,08-12-2023 16:37:59,0.648s,PASSED
+"click(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO""))",Chrome 119.0.0.0,,,08-12-2023 16:37:59,08-12-2023 16:37:59,0.527s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:37:59,08-12-2023 16:38:02,2.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no""))",Chrome 119.0.0.0,,,08-12-2023 16:38:02,08-12-2023 16:38:03,0.751s,PASSED
+"click(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times""))",Chrome 119.0.0.0,,,08-12-2023 16:38:03,08-12-2023 16:38:03,0.533s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:03,08-12-2023 16:38:04,0.894s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:38:04,08-12-2023 16:38:04,0.294s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G07 - DN,Chrome 119.0.0.0,,,08-12-2023 16:38:04,08-12-2023 16:38:29,24.462s,PASSED
+"openBrowser(""https://www.dn.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:38:04,08-12-2023 16:38:07,2.196s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:38:07,08-12-2023 16:38:07,0.145s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Dirio de Notcias/p_Consentir""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:07,08-12-2023 16:38:27,20.526s,PASSED
+"click(findTestObject(""Object Repository/Page_Dirio de Notcias/p_Consentir""))",Chrome 119.0.0.0,,,08-12-2023 16:38:27,08-12-2023 16:38:28,0.357s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:28,08-12-2023 16:38:29,1.002s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:38:29,08-12-2023 16:38:29,0.204s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G08 - TSF,Chrome 119.0.0.0,,,08-12-2023 16:38:29,08-12-2023 16:38:39,9.770s,PASSED
+"openBrowser(""https://www.tsf.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:38:29,08-12-2023 16:38:32,2.774s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:38:32,08-12-2023 16:38:32,0.133s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_TSF Rdio Notcias/p_Consentir""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:32,08-12-2023 16:38:32,0.728s,PASSED
+"click(findTestObject(""Object Repository/Page_TSF Rdio Notcias/p_Consentir""))",Chrome 119.0.0.0,,,08-12-2023 16:38:32,08-12-2023 16:38:33,0.718s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_TSF Rdio Notcias/strong_Avanar""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:33,08-12-2023 16:38:37,4.179s,PASSED
+"click(findTestObject(""Object Repository/Page_TSF Rdio Notcias/strong_Avanar""))",Chrome 119.0.0.0,,,08-12-2023 16:38:37,08-12-2023 16:38:38,0.656s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_TSF Rdio Notcias/a_TSF - Pgina inicial""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:38,08-12-2023 16:38:38,0.294s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:38:38,08-12-2023 16:38:39,0.231s,PASSED
+,,,,,,,
+Test Cases/Páginas genéricas/G09 - JN,Chrome 119.0.0.0,,,08-12-2023 16:38:39,08-12-2023 16:38:47,8.783s,PASSED
+"openBrowser(""https://www.jn.pt/"")",Chrome 119.0.0.0,,,08-12-2023 16:38:39,08-12-2023 16:38:41,2.121s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 119.0.0.0,,,08-12-2023 16:38:41,08-12-2023 16:38:41,0.133s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Jornal de Notcias/p_Consentir""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:41,08-12-2023 16:38:43,1.611s,PASSED
+"click(findTestObject(""Object Repository/Page_Jornal de Notcias/p_Consentir""))",Chrome 119.0.0.0,,,08-12-2023 16:38:43,08-12-2023 16:38:43,0.404s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Jornal de Notcias/strong_Avanar""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:43,08-12-2023 16:38:45,2.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Jornal de Notcias/strong_Avanar""))",Chrome 119.0.0.0,,,08-12-2023 16:38:45,08-12-2023 16:38:46,0.508s,PASSED
+"click(findTestObject(""Object Repository/Page_Jornal de Notcias/button_cancelar""))",Chrome 119.0.0.0,,,08-12-2023 16:38:46,08-12-2023 16:38:46,0.317s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Jornal de Notcias/img""), 5)",Chrome 119.0.0.0,,,08-12-2023 16:38:46,08-12-2023 16:38:47,0.996s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 16:38:47,08-12-2023 16:38:47,0.223s,PASSED

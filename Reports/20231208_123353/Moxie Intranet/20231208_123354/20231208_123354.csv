@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Moxie Intranet,Chrome 119.0.0.0,,,08-12-2023 12:33:57,08-12-2023 12:34:58,1m - 0.850s,PASSED
+,,,,,,,
+Test Cases/001 - Moxie Intranet DEV - Login Colaborador,Chrome 119.0.0.0,,,08-12-2023 12:33:57,08-12-2023 12:34:14,16.587s,PASSED
+"openBrowser(""https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"")",Chrome 119.0.0.0,,,08-12-2023 12:33:57,08-12-2023 12:34:00,2.978s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,08-12-2023 12:34:00,08-12-2023 12:34:01,0.183s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_UserEmail""), userColaborador)",Chrome 119.0.0.0,,,08-12-2023 12:34:01,08-12-2023 12:34:08,6.881s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_Password""), pwd)",Chrome 119.0.0.0,,,08-12-2023 12:34:08,08-12-2023 12:34:08,0.965s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 119.0.0.0,,,08-12-2023 12:34:08,08-12-2023 12:34:09,0.600s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet""), 0)",Chrome 119.0.0.0,,,08-12-2023 12:34:09,08-12-2023 12:34:14,4.585s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 12:34:14,08-12-2023 12:34:14,0.142s,PASSED
+,,,,,,,
+Test Cases/002 - Moxie Intranet DEV - Login Manager,Chrome 119.0.0.0,,,08-12-2023 12:34:14,08-12-2023 12:34:28,14.361s,PASSED
+"openBrowser(""https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"")",Chrome 119.0.0.0,,,08-12-2023 12:34:14,08-12-2023 12:34:16,1.670s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,08-12-2023 12:34:16,08-12-2023 12:34:16,0.137s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_UserEmail""), userManager)",Chrome 119.0.0.0,,,08-12-2023 12:34:16,08-12-2023 12:34:23,7.044s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_Password""), pwd)",Chrome 119.0.0.0,,,08-12-2023 12:34:23,08-12-2023 12:34:24,0.841s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 119.0.0.0,,,08-12-2023 12:34:24,08-12-2023 12:34:24,0.547s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet""), 0)",Chrome 119.0.0.0,,,08-12-2023 12:34:24,08-12-2023 12:34:28,3.927s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 12:34:28,08-12-2023 12:34:28,0.127s,PASSED
+,,,,,,,
+Test Cases/001 - Moxie Intranet DEV - Login Colaborador,Chrome 119.0.0.0,,,08-12-2023 12:34:28,08-12-2023 12:34:43,14.541s,PASSED
+"openBrowser(""https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"")",Chrome 119.0.0.0,,,08-12-2023 12:34:28,08-12-2023 12:34:30,2.009s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,08-12-2023 12:34:30,08-12-2023 12:34:30,0.151s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_UserEmail""), userColaborador)",Chrome 119.0.0.0,,,08-12-2023 12:34:30,08-12-2023 12:34:37,6.475s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_Password""), pwd)",Chrome 119.0.0.0,,,08-12-2023 12:34:37,08-12-2023 12:34:38,0.857s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 119.0.0.0,,,08-12-2023 12:34:38,08-12-2023 12:34:38,0.555s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet""), 0)",Chrome 119.0.0.0,,,08-12-2023 12:34:38,08-12-2023 12:34:43,4.338s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 12:34:43,08-12-2023 12:34:43,0.146s,PASSED
+,,,,,,,
+Test Cases/002 - Moxie Intranet DEV - Login Manager,Chrome 119.0.0.0,,,08-12-2023 12:34:43,08-12-2023 12:34:58,15.172s,PASSED
+"openBrowser(""https://moxieleadlda-dev.outsystemscloud.com/Intranet/Home"")",Chrome 119.0.0.0,,,08-12-2023 12:34:43,08-12-2023 12:34:45,1.796s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,08-12-2023 12:34:45,08-12-2023 12:34:45,0.131s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_UserEmail""), userManager)",Chrome 119.0.0.0,,,08-12-2023 12:34:45,08-12-2023 12:34:52,7.107s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/inputInput_Password""), pwd)",Chrome 119.0.0.0,,,08-12-2023 12:34:52,08-12-2023 12:34:53,0.832s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 119.0.0.0,,,08-12-2023 12:34:53,08-12-2023 12:34:53,0.576s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Page_Moxie Intranet/span_Perfil Colaborador Intranet""), 0)",Chrome 119.0.0.0,,,08-12-2023 12:34:53,08-12-2023 12:34:58,4.581s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,08-12-2023 12:34:58,08-12-2023 12:34:58,0.137s,PASSED

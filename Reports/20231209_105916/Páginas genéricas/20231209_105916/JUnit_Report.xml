@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Páginas genéricas" time="491.616" tests="10" failures="3" errors="0">
+   <testsuite name="Páginas genéricas" tests="10" failures="3" errors="0" time="491.616" skipped="0" timestamp="09-12-2023T10:59:24" hostname="GoncaloAmaral - MOXIE-AMARAL.lan" id="Test Suites/Páginas genéricas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916"/>
+         <property name="logFiles" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119695963.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119757176.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119804363.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119851315.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119873471.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119873720.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119887553.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119887788.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119901493.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119901732.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119915413.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119915657.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119930798.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119930926.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119959614.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119960050.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702120008387.png, C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702120056210.png"/>
+         <property name="hostName" value="GoncaloAmaral - MOXIE-AMARAL.lan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.79"/>
+         <property name="sessionId" value="447042dc60c22838e0de47aec41b99e2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Páginas genéricas/G01 - Record" time="18.789" classname="Test Cases/Páginas genéricas/G01 - Record" status="PASSED">
+         <system-out><![CDATA[09-12-2023T10:59:24 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G01 - Record: Test Cases/Páginas genéricas/G01 - Record
+
+09-12-2023T10:59:25 - [TEST_STEP][PASSED] - openBrowser("https://www.record.pt/"): Browser is opened with url: 'https://www.record.pt/'
+
+09-12-2023T10:59:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T10:59:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T10:59:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.record.pt/'
+
+09-12-2023T10:59:28 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T10:59:29 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T10:59:29 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is visible
+
+09-12-2023T10:59:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is visible
+
+09-12-2023T10:59:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is clicked on
+
+09-12-2023T10:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is clicked on
+
+09-12-2023T10:59:31 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is visible
+
+09-12-2023T10:59:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is visible
+
+09-12-2023T10:59:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is clicked on
+
+09-12-2023T10:59:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is clicked on
+
+09-12-2023T10:59:35 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is visible
+
+09-12-2023T10:59:36 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is visible
+
+09-12-2023T10:59:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is clicked on
+
+09-12-2023T10:59:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is clicked on
+
+09-12-2023T10:59:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica' is clicked on
+
+09-12-2023T10:59:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica' is clicked on
+
+09-12-2023T10:59:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO")): Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO' is clicked on
+
+09-12-2023T10:59:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO' is clicked on
+
+09-12-2023T10:59:39 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Todas as notcias de Benfica na Liga Nos/a_Benfica"), 5): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+09-12-2023T10:59:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+09-12-2023T10:59:41 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica")): Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is right clicked on
+
+09-12-2023T10:59:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is right clicked on
+
+09-12-2023T10:59:42 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica"), 5): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica' is visible
+
+09-12-2023T10:59:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica' is visible
+
+09-12-2023T10:59:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica")): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+09-12-2023T10:59:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+09-12-2023T10:59:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T10:59:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G02 - A Bola" time="9.039" classname="Test Cases/Páginas genéricas/G02 - A Bola" status="PASSED">
+         <system-out><![CDATA[09-12-2023T10:59:43 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G02 - A Bola: Test Cases/Páginas genéricas/G02 - A Bola
+
+09-12-2023T10:59:43 - [TEST_STEP][PASSED] - openBrowser("https://www.abola.pt/"): Browser is opened with url: 'https://www.abola.pt/'
+
+09-12-2023T10:59:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T10:59:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T10:59:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.abola.pt/'
+
+09-12-2023T10:59:45 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T10:59:46 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T10:59:46 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito"), 5): Object 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is visible
+
+09-12-2023T10:59:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is visible
+
+09-12-2023T10:59:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito")): Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is clicked on
+
+09-12-2023T10:59:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is clicked on
+
+09-12-2023T10:59:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0")): Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0' is clicked on
+
+09-12-2023T10:59:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0' is clicked on
+
+09-12-2023T10:59:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica"), 5): Object 'Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica' is present
+
+09-12-2023T10:59:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica' is present
+
+09-12-2023T10:59:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T10:59:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G03 - O Jogo" time="12.773" classname="Test Cases/Páginas genéricas/G03 - O Jogo" status="PASSED">
+         <system-out><![CDATA[09-12-2023T10:59:52 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G03 - O Jogo: Test Cases/Páginas genéricas/G03 - O Jogo
+
+09-12-2023T10:59:52 - [TEST_STEP][PASSED] - openBrowser("https://www.ojogo.pt/"): Browser is opened with url: 'https://www.ojogo.pt/'
+
+09-12-2023T10:59:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T10:59:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T10:59:55 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.ojogo.pt/'
+
+09-12-2023T10:59:55 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T10:59:55 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T10:59:55 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_O Jogo/p_Consentir"), 5): Object 'Object Repository/Page_O Jogo/p_Consentir' is visible
+
+09-12-2023T10:59:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_O Jogo/p_Consentir' is visible
+
+09-12-2023T10:59:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/p_Consentir")): Object: 'Object Repository/Page_O Jogo/p_Consentir' is clicked on
+
+09-12-2023T10:59:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/p_Consentir' is clicked on
+
+09-12-2023T10:59:57 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_O Jogo/strong_Avanar"), 5): Object 'Object Repository/Page_O Jogo/strong_Avanar' is visible
+
+09-12-2023T11:00:00 - [MESSAGE][PASSED] - Object 'Object Repository/Page_O Jogo/strong_Avanar' is visible
+
+09-12-2023T11:00:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/strong_Avanar")): Object: 'Object Repository/Page_O Jogo/strong_Avanar' is clicked on
+
+09-12-2023T11:00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/strong_Avanar' is clicked on
+
+09-12-2023T11:00:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/img_img-fluid")): Object: 'Object Repository/Page_O Jogo/img_img-fluid' is clicked on
+
+09-12-2023T11:00:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/img_img-fluid' is clicked on
+
+09-12-2023T11:00:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Benfica - O Jogo/strong_Avanar")): Object: 'Object Repository/Page_Benfica - O Jogo/strong_Avanar' is clicked on
+
+09-12-2023T11:00:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Benfica - O Jogo/strong_Avanar' is clicked on
+
+09-12-2023T11:00:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Benfica - O Jogo/div_Benfica"), 5): Object 'Object Repository/Page_Benfica - O Jogo/div_Benfica' is present
+
+09-12-2023T11:00:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Benfica - O Jogo/div_Benfica' is present
+
+09-12-2023T11:00:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T11:00:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G05 - Sábado" time="5.834" classname="Test Cases/Páginas genéricas/G05 - Sábado" status="PASSED">
+         <system-out><![CDATA[09-12-2023T11:00:05 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G05 - Sábado: Test Cases/Páginas genéricas/G05 - Sábado
+
+09-12-2023T11:00:05 - [TEST_STEP][PASSED] - openBrowser("https://www.sabado.pt/"): Browser is opened with url: 'https://www.sabado.pt/'
+
+09-12-2023T11:00:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:00:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:00:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.sabado.pt/'
+
+09-12-2023T11:00:08 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_SBADO/span_CONCORDO"), 5): Object 'Object Repository/Page_SBADO/span_CONCORDO' is visible
+
+09-12-2023T11:00:09 - [MESSAGE][PASSED] - Object 'Object Repository/Page_SBADO/span_CONCORDO' is visible
+
+09-12-2023T11:00:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_SBADO/span_CONCORDO")): Object: 'Object Repository/Page_SBADO/span_CONCORDO' is clicked on
+
+09-12-2023T11:00:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SBADO/span_CONCORDO' is clicked on
+
+09-12-2023T11:00:09 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_SBADO/a_Sbado"), 5): Object 'Object Repository/Page_SBADO/a_Sbado' is present
+
+09-12-2023T11:00:11 - [MESSAGE][PASSED] - Object 'Object Repository/Page_SBADO/a_Sbado' is present
+
+09-12-2023T11:00:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T11:00:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G06 - Visão" time="7.828" classname="Test Cases/Páginas genéricas/G06 - Visão" status="PASSED">
+         <system-out><![CDATA[09-12-2023T11:00:11 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G06 - Visão: Test Cases/Páginas genéricas/G06 - Visão
+
+09-12-2023T11:00:11 - [TEST_STEP][PASSED] - openBrowser("https://visao.pt/"): Browser is opened with url: 'https://visao.pt/'
+
+09-12-2023T11:00:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:00:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:00:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://visao.pt/'
+
+09-12-2023T11:00:14 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:00:14 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:00:14 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO' is visible
+
+09-12-2023T11:00:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO' is visible
+
+09-12-2023T11:00:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO' is clicked on
+
+09-12-2023T11:00:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO' is clicked on
+
+09-12-2023T11:00:15 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is visible
+
+09-12-2023T11:00:17 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is visible
+
+09-12-2023T11:00:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is clicked on
+
+09-12-2023T11:00:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is clicked on
+
+09-12-2023T11:00:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times' is clicked on
+
+09-12-2023T11:00:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times' is clicked on
+
+09-12-2023T11:00:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block' is present
+
+09-12-2023T11:00:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block' is present
+
+09-12-2023T11:00:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T11:00:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G07 - DN" time="4.583" classname="Test Cases/Páginas genéricas/G07 - DN" status="PASSED">
+         <system-out><![CDATA[09-12-2023T11:00:19 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G07 - DN: Test Cases/Páginas genéricas/G07 - DN
+
+09-12-2023T11:00:19 - [TEST_STEP][PASSED] - openBrowser("https://www.dn.pt/"): Browser is opened with url: 'https://www.dn.pt/'
+
+09-12-2023T11:00:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:00:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:00:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dn.pt/'
+
+09-12-2023T11:00:21 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:00:21 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:00:21 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Dirio de Notcias/p_Consentir"), 5): Object 'Object Repository/Page_Dirio de Notcias/p_Consentir' is present
+
+09-12-2023T11:00:22 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Dirio de Notcias/p_Consentir' is present
+
+09-12-2023T11:00:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Dirio de Notcias/p_Consentir")): Object: 'Object Repository/Page_Dirio de Notcias/p_Consentir' is clicked on
+
+09-12-2023T11:00:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Dirio de Notcias/p_Consentir' is clicked on
+
+09-12-2023T11:00:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias"), 5): Object 'Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias' is present
+
+09-12-2023T11:00:23 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias' is present
+
+09-12-2023T11:00:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T11:00:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G08 - TSF" time="46.945" classname="Test Cases/Páginas genéricas/G08 - TSF" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Páginas genéricas/G08 - TSF FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)&#xa;	at G08 - TSF.run(G08 - TSF:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[09-12-2023T11:03:24 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G08 - TSF: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+09-12-2023T11:03:24 - [TEST_STEP][PASSED] - openBrowser("https://www.tsf.pt/"): Browser is opened with url: 'https://www.tsf.pt/'
+
+09-12-2023T11:03:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2023T11:03:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:03:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:03:27 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.tsf.pt/'
+
+09-12-2023T11:03:27 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:03:27 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:03:27 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_TSF Rdio Notcias/p_Consentir"), 5): Object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is not present after 5 second(s)
+
+09-12-2023T11:03:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button/p'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:03:33 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'. Try using Self-healing.
+
+09-12-2023T11:03:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button/p'.
+
+09-12-2023T11:03:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//p[(text() = 'Consentir' or . = 'Consentir')]'.
+
+09-12-2023T11:03:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button/p'.
+
+09-12-2023T11:03:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//p[(text() = 'Consentir' or . = 'Consentir')]'.
+
+09-12-2023T11:03:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Consentir' or . = 'Consentir')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:03:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: p.fc-button-label'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:03:37 - [MESSAGE][WARNING] - Object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is not present after 5 second(s)
+
+09-12-2023T11:03:37 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_TSF Rdio Notcias/p_Consentir")): Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1702046560978.run(Script1702046560978.groovy:26)
+	... 18 more
+)
+
+09-12-2023T11:04:08 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button/p'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:04:08 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'. Try using Self-healing.
+
+09-12-2023T11:04:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button/p'.
+
+09-12-2023T11:04:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//p[(text() = 'Consentir' or . = 'Consentir')]'.
+
+09-12-2023T11:04:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button/p'.
+
+09-12-2023T11:04:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//p[(text() = 'Consentir' or . = 'Consentir')]'.
+
+09-12-2023T11:04:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Consentir' or . = 'Consentir')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:04:11 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: p.fc-button-label'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:04:11 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1702046560978.run(Script1702046560978.groovy:26)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119851315.png]]]]></system-out>
+         <system-err><![CDATA[09-12-2023T11:03:24 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G08 - TSF: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G09 - JN" time="7.932" classname="Test Cases/Páginas genéricas/G09 - JN" status="PASSED">
+         <system-out><![CDATA[09-12-2023T11:04:11 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G09 - JN: Test Cases/Páginas genéricas/G09 - JN
+
+09-12-2023T11:04:11 - [TEST_STEP][PASSED] - openBrowser("https://www.jn.pt/"): Browser is opened with url: 'https://www.jn.pt/'
+
+09-12-2023T11:04:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2023T11:04:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:04:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:04:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jn.pt/'
+
+09-12-2023T11:04:13 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:04:14 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:04:14 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/p_Consentir"), 5): Object 'Object Repository/Page_Jornal de Notcias/p_Consentir' is present
+
+09-12-2023T11:04:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/p_Consentir' is present
+
+09-12-2023T11:04:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/p_Consentir")): Object: 'Object Repository/Page_Jornal de Notcias/p_Consentir' is clicked on
+
+09-12-2023T11:04:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/p_Consentir' is clicked on
+
+09-12-2023T11:04:16 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/strong_Avanar"), 5): Object 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is present
+
+09-12-2023T11:04:17 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is present
+
+09-12-2023T11:04:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/strong_Avanar")): Object: 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is clicked on
+
+09-12-2023T11:04:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is clicked on
+
+09-12-2023T11:04:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/button_cancelar")): Object: 'Object Repository/Page_Jornal de Notcias/button_cancelar' is clicked on
+
+09-12-2023T11:04:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/button_cancelar' is clicked on
+
+09-12-2023T11:04:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/img"), 5): Object 'Object Repository/Page_Jornal de Notcias/img' is present
+
+09-12-2023T11:04:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/img' is present
+
+09-12-2023T11:04:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2023T11:04:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G10 - Público" time="13.919" classname="Test Cases/Páginas genéricas/G10 - Público" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Páginas genéricas/G10 - Público FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)&#xa;	at G10 - Público.run(G10 - Público:34)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[09-12-2023T11:05:01 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G10 - Público: Test Cases/Páginas genéricas/G10 - Público FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)
+	at G10 - Público.run(G10 - Público:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+09-12-2023T11:05:01 - [TEST_STEP][PASSED] - openBrowser("https://www.publico.pt/"): Browser is opened with url: 'https://www.publico.pt/'
+
+09-12-2023T11:05:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2023T11:05:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:05:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:05:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.publico.pt/'
+
+09-12-2023T11:05:04 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:05:04 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:05:04 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO"), 5): Object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO' is present
+
+09-12-2023T11:05:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO' is present
+
+09-12-2023T11:05:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO")): Object: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO' is clicked on
+
+09-12-2023T11:05:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/span_CONCORDO' is clicked on
+
+09-12-2023T11:05:06 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar"), 5): Object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar' is present
+
+09-12-2023T11:05:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar' is present
+
+09-12-2023T11:05:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar")): Object: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar' is clicked on
+
+09-12-2023T11:05:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/div_botao fechar' is clicked on
+
+09-12-2023T11:05:09 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo"), 5): Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)
+	at G10 - Público.run(G10 - Público:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+)
+
+09-12-2023T11:05:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:05:15 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)
+	at G10 - Público.run(G10 - Público:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119915413.png]]
+
+09-12-2023T11:05:15 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)
+	at G10 - Público.run(G10 - Público:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+)
+[[ATTACHMENT|C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702119915657.png]]]]></system-out>
+         <system-err><![CDATA[09-12-2023T11:05:01 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G10 - Público: Test Cases/Páginas genéricas/G10 - Público FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1503)
+	at G10 - Público.run(G10 - Público:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PBLICO  Abrir portas onde se erguem muros/svg_masthead__branding__logo' located by '' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G11 - Eco" time="47.787" classname="Test Cases/Páginas genéricas/G11 - Eco" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Páginas genéricas/G11 - Eco FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_ECO  Economia Online/a'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)&#xa;	at G11 - Eco.run(G11 - Eco:30)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_ECO  Economia Online/a' located by '//div[10]/div[2]/div/a' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[09-12-2023T11:06:48 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G11 - Eco: Test Cases/Páginas genéricas/G11 - Eco FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_ECO  Economia Online/a'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G11 - Eco.run(G11 - Eco:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_ECO  Economia Online/a' located by '//div[10]/div[2]/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+09-12-2023T11:06:48 - [TEST_STEP][PASSED] - openBrowser("https://eco.sapo.pt/"): Browser is opened with url: 'https://eco.sapo.pt/'
+
+09-12-2023T11:06:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2023T11:06:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2023T11:06:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2023T11:06:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://eco.sapo.pt/'
+
+09-12-2023T11:06:51 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+09-12-2023T11:06:51 - [MESSAGE][PASSED] - Current window maximized
+
+09-12-2023T11:06:51 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_ECO  Economia Online/span_CONCORDO"), 5): Object 'Object Repository/Page_ECO  Economia Online/span_CONCORDO' is present
+
+09-12-2023T11:06:51 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ECO  Economia Online/span_CONCORDO' is present
+
+09-12-2023T11:06:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ECO  Economia Online/span_CONCORDO")): Object: 'Object Repository/Page_ECO  Economia Online/span_CONCORDO' is clicked on
+
+09-12-2023T11:06:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ECO  Economia Online/span_CONCORDO' is clicked on
+
+09-12-2023T11:06:52 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_ECO  Economia Online/a"), 5): Object 'Object Repository/Page_ECO  Economia Online/a' is not present after 5 second(s)
+
+09-12-2023T11:06:58 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[10]/div[2]/div/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:06:58 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_ECO  Economia Online/a'. Try using Self-healing.
+
+09-12-2023T11:06:59 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:06:59 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:06:59 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:07:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[@class="js no-touch cssanimations csstransitions"]/body[@class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-782032 with-header--solid"]/div[10]/div[2]/div[1]/a[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:07:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: div:nth-of-type(10) > div:nth-of-type(2) > div > a'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:07:01 - [MESSAGE][WARNING] - Object 'Object Repository/Page_ECO  Economia Online/a' is not present after 5 second(s)
+
+09-12-2023T11:07:01 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_ECO  Economia Online/a")): Unable to click on object 'Object Repository/Page_ECO  Economia Online/a' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_ECO  Economia Online/a'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G11 - Eco.run(G11 - Eco:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_ECO  Economia Online/a' located by '//div[10]/div[2]/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1702119226770.run(Script1702119226770.groovy:30)
+	... 18 more
+)
+
+09-12-2023T11:07:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[10]/div[2]/div/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:07:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_ECO  Economia Online/a'. Try using Self-healing.
+
+09-12-2023T11:07:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:07:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:07:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:07:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[10]/div[2]/div/a'.
+
+09-12-2023T11:07:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[@class="js no-touch cssanimations csstransitions"]/body[@class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-782032 with-header--solid"]/div[10]/div[2]/div[1]/a[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:07:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: div:nth-of-type(10) > div:nth-of-type(2) > div > a'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2023T11:07:36 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_ECO  Economia Online/a' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_ECO  Economia Online/a'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G11 - Eco.run(G11 - Eco:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_ECO  Economia Online/a' located by '//div[10]/div[2]/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1702119226770.run(Script1702119226770.groovy:30)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231209_105916\\P\u00E1ginas gen\u00E9ricas\\20231209_105916\\1702120056210.png]]]]></system-out>
+         <system-err><![CDATA[09-12-2023T11:06:48 - [TEST_CASE][FAILED] - Test Cases/Páginas genéricas/G11 - Eco: Test Cases/Páginas genéricas/G11 - Eco FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_ECO  Economia Online/a'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G11 - Eco.run(G11 - Eco:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_ECO  Economia Online/a' located by '//div[10]/div[2]/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[09-12-2023T10:59:24 - [TEST_SUITE][FAILED] - Páginas genéricas: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' located by '//strong' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[09-12-2023T10:59:24 - [TEST_SUITE][FAILED] - Páginas genéricas: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702119556062.run(TempTestSuite1702119556062.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' located by '//strong' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

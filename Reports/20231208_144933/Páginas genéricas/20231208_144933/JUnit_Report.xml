@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Páginas genéricas" time="126.902" tests="8" failures="0" errors="0">
+   <testsuite name="Páginas genéricas" tests="8" failures="0" errors="0" time="126.902" skipped="0" timestamp="08-12-2023T14:49:36" hostname="GoncaloAmaral - MOXIE-AMARAL.lan" id="Test Suites/Páginas genéricas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231208_144933\\P\u00E1ginas gen\u00E9ricas\\20231208_144933"/>
+         <property name="logFiles" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231208_144933\\P\u00E1ginas gen\u00E9ricas\\20231208_144933\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\GoncaloAmaral\\git\\Katalon-certification\\Reports\\20231208_144933\\P\u00E1ginas gen\u00E9ricas\\20231208_144933\\1702047084823.png"/>
+         <property name="hostName" value="GoncaloAmaral - MOXIE-AMARAL.lan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.79"/>
+         <property name="sessionId" value="1947dd8532ddbee4ab8036096e7394a1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Páginas genéricas/G01 - Record" time="17.63" classname="Test Cases/Páginas genéricas/G01 - Record" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:49:36 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G01 - Record: Test Cases/Páginas genéricas/G01 - Record
+
+08-12-2023T14:49:36 - [TEST_STEP][PASSED] - openBrowser("https://www.record.pt/"): Browser is opened with url: 'https://www.record.pt/'
+
+08-12-2023T14:49:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:49:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:49:40 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.record.pt/'
+
+08-12-2023T14:49:40 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:49:40 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:49:40 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is visible
+
+08-12-2023T14:49:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is visible
+
+08-12-2023T14:49:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is clicked on
+
+08-12-2023T14:49:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/span_CONCORDO' is clicked on
+
+08-12-2023T14:49:42 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is visible
+
+08-12-2023T14:49:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is visible
+
+08-12-2023T14:49:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is clicked on
+
+08-12-2023T14:49:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_AVANAR' is clicked on
+
+08-12-2023T14:49:46 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar"), 5): Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is visible
+
+08-12-2023T14:49:46 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is visible
+
+08-12-2023T14:49:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is clicked on
+
+08-12-2023T14:49:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Cancelar' is clicked on
+
+08-12-2023T14:49:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica")): Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica' is clicked on
+
+08-12-2023T14:49:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Record Tudo sobre desporto. Futebol, m_9c6716/a_Benfica' is clicked on
+
+08-12-2023T14:49:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO")): Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO' is clicked on
+
+08-12-2023T14:49:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/span_CONCORDO' is clicked on
+
+08-12-2023T14:49:49 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_Todas as notcias de Benfica na Liga Nos/a_Benfica"), 5): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+08-12-2023T14:49:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+08-12-2023T14:49:52 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica")): Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is right clicked on
+
+08-12-2023T14:49:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is right clicked on
+
+08-12-2023T14:49:53 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica"), 5): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica' is visible
+
+08-12-2023T14:49:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/h2_Benfica' is visible
+
+08-12-2023T14:49:53 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica")): Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+08-12-2023T14:49:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Todas as notcias de Benfica na Liga Nos/a_Benfica' is visible
+
+08-12-2023T14:49:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:49:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G02 - A Bola" time="9.634" classname="Test Cases/Páginas genéricas/G02 - A Bola" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:49:54 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G02 - A Bola: Test Cases/Páginas genéricas/G02 - A Bola
+
+08-12-2023T14:49:54 - [TEST_STEP][PASSED] - openBrowser("https://www.abola.pt/"): Browser is opened with url: 'https://www.abola.pt/'
+
+08-12-2023T14:49:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:49:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:49:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.abola.pt/'
+
+08-12-2023T14:49:57 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:49:57 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:49:57 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito"), 5): Object 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is visible
+
+08-12-2023T14:49:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is visible
+
+08-12-2023T14:49:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito")): Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is clicked on
+
+08-12-2023T14:49:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/button_Aceito' is clicked on
+
+08-12-2023T14:49:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0")): Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0' is clicked on
+
+08-12-2023T14:50:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_A BOLA - Homepage  Abola.pt/imgrptClassificacaoPais_imgLogo_0' is clicked on
+
+08-12-2023T14:50:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica"), 5): Object 'Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica' is present
+
+08-12-2023T14:50:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Benfica - ltimas notcias e atualizaes _774b92/span_Benfica' is present
+
+08-12-2023T14:50:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:50:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G03 - O Jogo" time="11.829" classname="Test Cases/Páginas genéricas/G03 - O Jogo" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:50:03 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G03 - O Jogo: Test Cases/Páginas genéricas/G03 - O Jogo
+
+08-12-2023T14:50:03 - [TEST_STEP][PASSED] - openBrowser("https://www.ojogo.pt/"): Browser is opened with url: 'https://www.ojogo.pt/'
+
+08-12-2023T14:50:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:50:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:50:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.ojogo.pt/'
+
+08-12-2023T14:50:05 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:50:06 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:50:06 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_O Jogo/p_Consentir"), 5): Object 'Object Repository/Page_O Jogo/p_Consentir' is visible
+
+08-12-2023T14:50:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_O Jogo/p_Consentir' is visible
+
+08-12-2023T14:50:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/p_Consentir")): Object: 'Object Repository/Page_O Jogo/p_Consentir' is clicked on
+
+08-12-2023T14:50:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/p_Consentir' is clicked on
+
+08-12-2023T14:50:08 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_O Jogo/strong_Avanar"), 5): Object 'Object Repository/Page_O Jogo/strong_Avanar' is visible
+
+08-12-2023T14:50:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_O Jogo/strong_Avanar' is visible
+
+08-12-2023T14:50:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/strong_Avanar")): Object: 'Object Repository/Page_O Jogo/strong_Avanar' is clicked on
+
+08-12-2023T14:50:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/strong_Avanar' is clicked on
+
+08-12-2023T14:50:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_O Jogo/img_img-fluid")): Object: 'Object Repository/Page_O Jogo/img_img-fluid' is clicked on
+
+08-12-2023T14:50:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_O Jogo/img_img-fluid' is clicked on
+
+08-12-2023T14:50:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Benfica - O Jogo/strong_Avanar")): Object: 'Object Repository/Page_Benfica - O Jogo/strong_Avanar' is clicked on
+
+08-12-2023T14:50:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Benfica - O Jogo/strong_Avanar' is clicked on
+
+08-12-2023T14:50:14 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Benfica - O Jogo/div_Benfica"), 5): Object 'Object Repository/Page_Benfica - O Jogo/div_Benfica' is present
+
+08-12-2023T14:50:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Benfica - O Jogo/div_Benfica' is present
+
+08-12-2023T14:50:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:50:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G05 - Sábado" time="7.68" classname="Test Cases/Páginas genéricas/G05 - Sábado" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:50:15 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G05 - Sábado: Test Cases/Páginas genéricas/G05 - Sábado
+
+08-12-2023T14:50:15 - [TEST_STEP][PASSED] - openBrowser("https://www.sabado.pt/"): Browser is opened with url: 'https://www.sabado.pt/'
+
+08-12-2023T14:50:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:50:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:50:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.sabado.pt/'
+
+08-12-2023T14:50:18 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_SBADO/span_CONCORDO"), 5): Object 'Object Repository/Page_SBADO/span_CONCORDO' is visible
+
+08-12-2023T14:50:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_SBADO/span_CONCORDO' is visible
+
+08-12-2023T14:50:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_SBADO/span_CONCORDO")): Object: 'Object Repository/Page_SBADO/span_CONCORDO' is clicked on
+
+08-12-2023T14:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SBADO/span_CONCORDO' is clicked on
+
+08-12-2023T14:50:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_SBADO/a_Sbado"), 5): Object 'Object Repository/Page_SBADO/a_Sbado' is present
+
+08-12-2023T14:50:23 - [MESSAGE][PASSED] - Object 'Object Repository/Page_SBADO/a_Sbado' is present
+
+08-12-2023T14:50:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:50:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G06 - Visão" time="8.516" classname="Test Cases/Páginas genéricas/G06 - Visão" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:50:23 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G06 - Visão: Test Cases/Páginas genéricas/G06 - Visão
+
+08-12-2023T14:50:23 - [TEST_STEP][PASSED] - openBrowser("https://visao.pt/"): Browser is opened with url: 'https://visao.pt/'
+
+08-12-2023T14:50:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:50:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:50:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://visao.pt/'
+
+08-12-2023T14:50:25 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:50:25 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:50:25 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO' is visible
+
+08-12-2023T14:50:26 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_EU ACEITO' is visible
+
+08-12-2023T14:50:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO' is clicked on
+
+08-12-2023T14:50:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/span_EU ACEITO' is clicked on
+
+08-12-2023T14:50:27 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is visible
+
+08-12-2023T14:50:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is visible
+
+08-12-2023T14:50:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is clicked on
+
+08-12-2023T14:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/button_Agora no' is clicked on
+
+08-12-2023T14:50:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times")): Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times' is clicked on
+
+08-12-2023T14:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/i_fa fa-times' is clicked on
+
+08-12-2023T14:50:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block"), 5): Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block' is present
+
+08-12-2023T14:50:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Viso  Notcias da atualidade nacional e_c86d70/img_d-none d-md-block' is present
+
+08-12-2023T14:50:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:50:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G07 - DN" time="6.675" classname="Test Cases/Páginas genéricas/G07 - DN" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:50:31 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G07 - DN: Test Cases/Páginas genéricas/G07 - DN
+
+08-12-2023T14:50:31 - [TEST_STEP][PASSED] - openBrowser("https://www.dn.pt/"): Browser is opened with url: 'https://www.dn.pt/'
+
+08-12-2023T14:50:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:50:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:50:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.dn.pt/'
+
+08-12-2023T14:50:34 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:50:34 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:50:34 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Dirio de Notcias/p_Consentir"), 5): Object 'Object Repository/Page_Dirio de Notcias/p_Consentir' is present
+
+08-12-2023T14:50:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Dirio de Notcias/p_Consentir' is present
+
+08-12-2023T14:50:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Dirio de Notcias/p_Consentir")): Object: 'Object Repository/Page_Dirio de Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:50:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Dirio de Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:50:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias"), 5): Object 'Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias' is present
+
+08-12-2023T14:50:38 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Dirio de Notcias/a_Dirio de Notcias' is present
+
+08-12-2023T14:50:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:50:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G08 - TSF" time="9.28" classname="Test Cases/Páginas genéricas/G08 - TSF" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:51:25 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G08 - TSF: Test Cases/Páginas genéricas/G08 - TSF
+
+08-12-2023T14:51:25 - [TEST_STEP][PASSED] - openBrowser("https://www.tsf.pt/"): Browser is opened with url: 'https://www.tsf.pt/'
+
+08-12-2023T14:51:25 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-12-2023T14:51:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:51:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:51:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.tsf.pt/'
+
+08-12-2023T14:51:28 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:51:28 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:51:28 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_TSF Rdio Notcias/p_Consentir"), 5): Object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is present
+
+08-12-2023T14:51:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is present
+
+08-12-2023T14:51:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_TSF Rdio Notcias/p_Consentir")): Object: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:51:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:51:29 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_TSF Rdio Notcias/strong_Avanar"), 5): Object 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' is present
+
+08-12-2023T14:51:33 - [MESSAGE][PASSED] - Object 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' is present
+
+08-12-2023T14:51:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_TSF Rdio Notcias/strong_Avanar")): Object: 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' is clicked on
+
+08-12-2023T14:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_TSF Rdio Notcias/strong_Avanar' is clicked on
+
+08-12-2023T14:51:33 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_TSF Rdio Notcias/a_TSF - Pgina inicial"), 5): Object 'Object Repository/Page_TSF Rdio Notcias/a_TSF - Pgina inicial' is present
+
+08-12-2023T14:51:34 - [MESSAGE][PASSED] - Object 'Object Repository/Page_TSF Rdio Notcias/a_TSF - Pgina inicial' is present
+
+08-12-2023T14:51:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:51:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G09 - JN" time="8.783" classname="Test Cases/Páginas genéricas/G09 - JN" status="PASSED">
+         <system-out><![CDATA[08-12-2023T14:51:34 - [TEST_CASE][PASSED] - Test Cases/Páginas genéricas/G09 - JN: Test Cases/Páginas genéricas/G09 - JN
+
+08-12-2023T14:51:34 - [TEST_STEP][PASSED] - openBrowser("https://www.jn.pt/"): Browser is opened with url: 'https://www.jn.pt/'
+
+08-12-2023T14:51:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-12-2023T14:51:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-12-2023T14:51:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jn.pt/'
+
+08-12-2023T14:51:36 - [TEST_STEP][PASSED] - maximizeWindow(STOP_ON_FAILURE): Current window maximized
+
+08-12-2023T14:51:36 - [MESSAGE][PASSED] - Current window maximized
+
+08-12-2023T14:51:36 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/p_Consentir"), 5): Object 'Object Repository/Page_Jornal de Notcias/p_Consentir' is present
+
+08-12-2023T14:51:38 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/p_Consentir' is present
+
+08-12-2023T14:51:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/p_Consentir")): Object: 'Object Repository/Page_Jornal de Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/p_Consentir' is clicked on
+
+08-12-2023T14:51:38 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/strong_Avanar"), 5): Object 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is present
+
+08-12-2023T14:51:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is present
+
+08-12-2023T14:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/strong_Avanar")): Object: 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is clicked on
+
+08-12-2023T14:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/strong_Avanar' is clicked on
+
+08-12-2023T14:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Jornal de Notcias/button_cancelar")): Object: 'Object Repository/Page_Jornal de Notcias/button_cancelar' is clicked on
+
+08-12-2023T14:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jornal de Notcias/button_cancelar' is clicked on
+
+08-12-2023T14:51:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Jornal de Notcias/img"), 5): Object 'Object Repository/Page_Jornal de Notcias/img' is present
+
+08-12-2023T14:51:42 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Jornal de Notcias/img' is present
+
+08-12-2023T14:51:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-12-2023T14:51:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[08-12-2023T14:49:36 - [TEST_SUITE][FAILED] - Páginas genéricas: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702046973442.run(TempTestSuite1702046973442.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[08-12-2023T14:49:36 - [TEST_SUITE][FAILED] - Páginas genéricas: Test Cases/Páginas genéricas/G08 - TSF FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_TSF Rdio Notcias/p_Consentir'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at G08 - TSF.run(G08 - TSF:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1702046973442.run(TempTestSuite1702046973442.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_TSF Rdio Notcias/p_Consentir' located by '//button/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>
