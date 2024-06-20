@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>dc5dec19-b38d-47af-aa30-ec37c280ef1e</webElementGuid>
+      <webElementGuid>a8f1b7aa-cd09-4b60-a9d9-1489941c4d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>body_MenuTopoGenerico_lblNomeSeccao</value>
-      <webElementGuid>01ee280e-4f88-4824-8b90-ef915a09971d</webElementGuid>
+      <webElementGuid>e22c9558-f26d-47f4-b174-dfa18d318353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Benfica</value>
-      <webElementGuid>fc4d09da-b8df-448f-814d-2225c610334d</webElementGuid>
+      <webElementGuid>2b9e1c5a-66bb-4328-8d8e-4058e91add58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;body_MenuTopoGenerico_lblNomeSeccao&quot;)</value>
-      <webElementGuid>212fcac4-a01f-4367-a9ad-3cda06ab5cf7</webElementGuid>
+      <webElementGuid>5b20ae04-f2de-4dac-b6be-0b81145a05a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='body_MenuTopoGenerico_lblNomeSeccao']</value>
-      <webElementGuid>d5947a4f-9ef7-4498-9922-cfe1c1d50747</webElementGuid>
+      <webElementGuid>fe420ad2-5062-4a67-a40a-b0e5f05eb746</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='body_MenuTopoSeccoes_lblNomeSeccao']/h1/span</value>
-      <webElementGuid>1ab89bc3-6008-4aed-9d29-380cde972c62</webElementGuid>
+      <webElementGuid>e5a9bf96-e7e2-4624-90bc-592c73b7adf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BENFICA'])[1]/following::span[2]</value>
+      <webElementGuid>30f7202f-25a7-4520-a4a0-babaf079e2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIGA'])[1]/following::span[3]</value>
+      <webElementGuid>8c1e3e6b-f17e-4859-9992-c902fe4a698b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notícias'])[2]/preceding::span[2]</value>
+      <webElementGuid>c5bdbbb9-536a-4e92-9c78-c8f4e6c1f622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Videos'])[2]/preceding::span[2]</value>
+      <webElementGuid>adb28762-5601-4a90-a05e-363248f52050</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1/span</value>
-      <webElementGuid>6d391549-3a1b-4006-a8ba-2f80379d7766</webElementGuid>
+      <webElementGuid>3e23c35a-74d3-407b-9d8c-79214d60e56a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'body_MenuTopoGenerico_lblNomeSeccao' and (text() = 'Benfica' or . = 'Benfica')]</value>
-      <webElementGuid>7a293802-545a-4ced-9f16-12d6ba492082</webElementGuid>
+      <webElementGuid>aad43031-1fca-4e47-b1a0-48ae10bc80e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

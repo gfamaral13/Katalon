@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Páginas genéricas" time="0.482" tests="15" failures="0" errors="15">
+   <testsuite name="Páginas genéricas" tests="15" failures="0" errors="15" time="0.482" skipped="0" timestamp="20-06-2024T20:17:05" hostname="GoncaloAmaral - MOXIE-AMARAL.lan" id="Test Suites/Páginas genéricas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\GoncaloAmaral\\git\\Katalon\\Reports\\20240620_201701\\P\u00E1ginas gen\u00E9ricas\\20240620_201701"/>
+         <property name="logFiles" value="C:\\Users\\GoncaloAmaral\\git\\Katalon\\Reports\\20240620_201701\\P\u00E1ginas gen\u00E9ricas\\20240620_201701\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="GoncaloAmaral - MOXIE-AMARAL.lan"/>
+         <property name="hostAddress" value="192.168.1.79"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+      </properties>
+      <testcase name="Test Cases/Páginas genéricas/G01 - Record" time="0.003" classname="Test Cases/Páginas genéricas/G01 - Record" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G01 - Record has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G01 - Record: Test Cases/Páginas genéricas/G01 - Record has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G01 - Record: Test Cases/Páginas genéricas/G01 - Record has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G02 - A Bola" time="0.003" classname="Test Cases/Páginas genéricas/G02 - A Bola" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G02 - A Bola has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G02 - A Bola: Test Cases/Páginas genéricas/G02 - A Bola has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G02 - A Bola: Test Cases/Páginas genéricas/G02 - A Bola has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G03 - O Jogo" time="0.002" classname="Test Cases/Páginas genéricas/G03 - O Jogo" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G03 - O Jogo has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G03 - O Jogo: Test Cases/Páginas genéricas/G03 - O Jogo has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G03 - O Jogo: Test Cases/Páginas genéricas/G03 - O Jogo has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G05 - Sábado" time="0.002" classname="Test Cases/Páginas genéricas/G05 - Sábado" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G05 - Sábado has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G05 - Sábado: Test Cases/Páginas genéricas/G05 - Sábado has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G05 - Sábado: Test Cases/Páginas genéricas/G05 - Sábado has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G06 - Visão" time="0.003" classname="Test Cases/Páginas genéricas/G06 - Visão" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G06 - Visão has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G06 - Visão: Test Cases/Páginas genéricas/G06 - Visão has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G06 - Visão: Test Cases/Páginas genéricas/G06 - Visão has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G07 - DN" time="0.003" classname="Test Cases/Páginas genéricas/G07 - DN" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G07 - DN has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G07 - DN: Test Cases/Páginas genéricas/G07 - DN has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G07 - DN: Test Cases/Páginas genéricas/G07 - DN has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G08 - TSF" time="0.003" classname="Test Cases/Páginas genéricas/G08 - TSF" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G08 - TSF has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G08 - TSF: Test Cases/Páginas genéricas/G08 - TSF has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G08 - TSF: Test Cases/Páginas genéricas/G08 - TSF has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G09 - JN" time="0.004" classname="Test Cases/Páginas genéricas/G09 - JN" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G09 - JN has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G09 - JN: Test Cases/Páginas genéricas/G09 - JN has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G09 - JN: Test Cases/Páginas genéricas/G09 - JN has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G10 - Público" time="0.002" classname="Test Cases/Páginas genéricas/G10 - Público" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G10 - Público has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G10 - Público: Test Cases/Páginas genéricas/G10 - Público has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G10 - Público: Test Cases/Páginas genéricas/G10 - Público has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G11 - Eco" time="0.003" classname="Test Cases/Páginas genéricas/G11 - Eco" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G11 - Eco has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G11 - Eco: Test Cases/Páginas genéricas/G11 - Eco has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G11 - Eco: Test Cases/Páginas genéricas/G11 - Eco has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G12 - Zap" time="0.003" classname="Test Cases/Páginas genéricas/G12 - Zap" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G12 - Zap has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G12 - Zap: Test Cases/Páginas genéricas/G12 - Zap has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G12 - Zap: Test Cases/Páginas genéricas/G12 - Zap has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G13 - Expresso" time="0.003" classname="Test Cases/Páginas genéricas/G13 - Expresso" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G13 - Expresso has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G13 - Expresso: Test Cases/Páginas genéricas/G13 - Expresso has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G13 - Expresso: Test Cases/Páginas genéricas/G13 - Expresso has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G14 - Governo" time="0.001" classname="Test Cases/Páginas genéricas/G14 - Governo" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G14 - Governo has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G14 - Governo: Test Cases/Páginas genéricas/G14 - Governo has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G14 - Governo: Test Cases/Páginas genéricas/G14 - Governo has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G15 - AR" time="0.003" classname="Test Cases/Páginas genéricas/G15 - AR" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G15 - AR has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G15 - AR: Test Cases/Páginas genéricas/G15 - AR has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G15 - AR: Test Cases/Páginas genéricas/G15 - AR has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Páginas genéricas/G16 - Conselho de Ministros" time="0.002" classname="Test Cases/Páginas genéricas/G16 - Conselho de Ministros" status="ERROR">
+         <error type="ERROR" message="Test Cases/Páginas genéricas/G16 - Conselho de Ministros has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G16 - Conselho de Ministros: Test Cases/Páginas genéricas/G16 - Conselho de Ministros has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[20-06-2024T20:17:06 - [TEST_CASE][ERROR] - Test Cases/Páginas genéricas/G16 - Conselho de Ministros: Test Cases/Páginas genéricas/G16 - Conselho de Ministros has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <system-out><![CDATA[20-06-2024T20:17:05 - [TEST_SUITE][ERROR] - Páginas genéricas: Test Cases/Páginas genéricas/G01 - Record has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+      <system-err><![CDATA[20-06-2024T20:17:05 - [TEST_SUITE][ERROR] - Páginas genéricas: Test Cases/Páginas genéricas/G01 - Record has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+   </testsuite>
+</testsuites>

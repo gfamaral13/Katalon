@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>58097b77-159a-48df-ad25-30bcb1d6356a</webElementGuid>
+      <webElementGuid>2ee009cf-4506-4511-a8d6-92c73488741e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>60268006-6915-4850-9b1d-b5dc72fe5471</webElementGuid>
+      <webElementGuid>8a57d413-31b9-48dc-8666-85c909a3f9e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aceito</value>
-      <webElementGuid>cb635b46-442e-4285-b09f-b73c2b618806</webElementGuid>
+      <webElementGuid>6c20bb08-47b5-4acb-a840-a23e6bb43650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
-      <webElementGuid>3c67b4e0-66ad-4b34-b139-ad489a68c681</webElementGuid>
+      <webElementGuid>ce750620-934b-4d7d-9ed6-6c3951a3b9d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onetrust-accept-btn-handler']</value>
-      <webElementGuid>fe0328e4-0d36-4fb8-a151-d9fe11d3bd4c</webElementGuid>
+      <webElementGuid>50ac8282-7f38-4834-8020-9d55484b10cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-button-group']/button</value>
-      <webElementGuid>d4fec1b8-4bae-4334-b574-c376faa0f192</webElementGuid>
+      <webElementGuid>2a0cf707-3565-44cd-aadb-4db93b2346b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de parceiros (fornecedores)'])[1]/following::button[1]</value>
+      <webElementGuid>76cf8a1a-988a-4946-bf3f-80784448cca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nós e os nossos parceiros tratamos os dados para fornecermos:'])[1]/following::button[2]</value>
+      <webElementGuid>9358ddbf-05d8-42b7-a210-976f7381369f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar finalidades'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cd96fd4-97c6-4a99-a855-86bf114d7e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sobre a sua privacidade'])[1]/preceding::button[2]</value>
+      <webElementGuid>d716c230-e9cc-48f2-8fb5-31cd2d3d1a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aceito']/parent::*</value>
+      <webElementGuid>30547dd4-93be-4fda-ae79-7cd1f5f5b09c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>dd299eff-9412-4ca5-a16f-c1c9e92aef43</webElementGuid>
+      <webElementGuid>67d555ee-1693-4bcf-8110-85f3a8bc43d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Aceito' or . = 'Aceito')]</value>
-      <webElementGuid>6496bcbf-c0e2-4b9b-bc62-016a4d3b5f4b</webElementGuid>
+      <webElementGuid>05319153-ec89-4923-9503-5ce6f77307d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,5 +4,6 @@
    <name>G02 - A Bola</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3ed88c29-3061-4735-9d6c-32ba701a29cf</testCaseGuid>
 </TestCaseEntity>

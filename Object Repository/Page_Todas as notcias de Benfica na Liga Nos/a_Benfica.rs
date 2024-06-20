@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>h2.benfica > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7227414c-c69a-4516-8697-dcb18fdd6231</webElementGuid>
+      <webElementGuid>80ee8442-0693-4fed-89e0-0093da8e2ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/futebol/futebol-nacional/liga-betclic/benfica?ref=Benfica_Menu</value>
-      <webElementGuid>8d4107eb-dd8c-4677-af0b-4a98bf36b44f</webElementGuid>
+      <webElementGuid>c3f85bc9-6f6a-4517-8e22-f74b04deeb84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>data-analytics-category</name>
       <type>Main</type>
       <value>Menu_Menu</value>
-      <webElementGuid>878bb3f0-0656-4ac0-b956-e60598d46e20</webElementGuid>
+      <webElementGuid>005c3d25-c58e-4db1-8345-f989eb59a002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>data-analytics-action</name>
       <type>Main</type>
       <value>titulo</value>
-      <webElementGuid>a0b336d4-6117-413f-9ed0-c90f8fa5247d</webElementGuid>
+      <webElementGuid>cfd172e9-0e4c-4a9d-ab34-0f4f4d9bbd84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +55,15 @@
       <name>data-analytics-label</name>
       <type>Main</type>
       <value>/futebol/futebol-nacional/liga-betclic/benfica?ref=Benfica_Menu</value>
-      <webElementGuid>d80e5a8f-b1f6-4833-bbaf-ba1bf25efbfd</webElementGuid>
+      <webElementGuid>764b9d4f-b8d1-4538-84d8-095dfde895b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>wbo-id</name>
       <type>Main</type>
-      <value>239</value>
-      <webElementGuid>93a8610e-10d9-4dba-bb3f-3bbedaf1540f</webElementGuid>
+      <value>241</value>
+      <webElementGuid>54260486-6d3b-49a4-af0b-42c9f6ff6afe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Benfica</value>
-      <webElementGuid>1b584bc0-83e5-45f0-97ce-a0fb626debeb</webElementGuid>
+      <webElementGuid>e6714a60-e97f-431f-b713-7b514ba33bba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;header_utils&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row&quot;]/div[@class=&quot;centro&quot;]/div[@class=&quot;menuTop&quot;]/h2[@class=&quot;benfica&quot;]/a[1]</value>
-      <webElementGuid>29c21df2-9bc2-4d18-8733-a1c6e3777a32</webElementGuid>
+      <webElementGuid>f8b872fe-3a17-4ba5-81fa-34429374106e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +87,39 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Benfica')])[7]</value>
-      <webElementGuid>60faff40-56ec-4c96-b620-061a6531f927</webElementGuid>
+      <webElementGuid>9bf282e2-a270-4d41-8176-6749a50c543d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UDL Match Day'])[1]/following::a[1]</value>
+      <webElementGuid>e058d15f-4870-49d3-868e-88293046e6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publicidade'])[1]/following::a[2]</value>
+      <webElementGuid>c1960265-8929-4964-996b-2c17aabb9738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classificação'])[4]/preceding::a[1]</value>
+      <webElementGuid>c6d109be-877d-4878-a3a6-4102a48f5baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumos'])[2]/preceding::a[2]</value>
+      <webElementGuid>4d1fb326-e5a9-4587-8fd5-7ced20046d5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +127,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/futebol/futebol-nacional/liga-betclic/benfica?ref=Benfica_Menu')]</value>
-      <webElementGuid>c2e60023-183a-4839-a4f3-c0e8108b44d5</webElementGuid>
+      <webElementGuid>0d01c6c0-a6b0-4709-a523-2596d9500b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2/a</value>
-      <webElementGuid>9489dd2b-69cf-4eea-9f3b-5380eae461d0</webElementGuid>
+      <webElementGuid>64df6857-0f3a-4e01-89ad-34b0817d1a44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/futebol/futebol-nacional/liga-betclic/benfica?ref=Benfica_Menu' and (text() = 'Benfica' or . = 'Benfica')]</value>
-      <webElementGuid>14d8318d-61f3-4842-93f9-80d06be13922</webElementGuid>
+      <webElementGuid>e1fb0abc-9676-4ae2-bd2d-090e4ea0dcb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5f627ed2-a89d-46b8-a8af-974ceca30324</webElementGuid>
+      <webElementGuid>56a2c479-067a-4e70-8fca-d50fe71d16f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +31,15 @@
       <name>id</name>
       <type>Main</type>
       <value>rptClassificacaoPais_imgLogo_0</value>
-      <webElementGuid>e2acc641-179a-4452-9ce6-6004bcafc241</webElementGuid>
+      <webElementGuid>f60a2283-6038-41de-abaf-87c182032516</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Benfica - 29 pontos</value>
-      <webElementGuid>4ea8f666-7692-43f9-a3a4-91f27b16b5c4</webElementGuid>
+      <value>Benfica - 80 pontos</value>
+      <webElementGuid>59a940e1-f654-4522-998c-3c9ccf3a19b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tooltip</value>
-      <webElementGuid>4ee1533f-4bf6-4d69-bfb5-fd2e4be76e89</webElementGuid>
+      <webElementGuid>9c609dfb-bd0a-4c29-a0c0-ae35a52c0850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>data-placement</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>e66b55d1-c46d-4f45-aa16-cf1004e3b7b8</webElementGuid>
+      <webElementGuid>cab43cae-09aa-4f78-a1bc-01bcccdefa57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>width</name>
       <type>Main</type>
       <value>32</value>
-      <webElementGuid>97ea161f-9454-4225-af59-1a3680362980</webElementGuid>
+      <webElementGuid>7aff89d8-3c4a-4fb8-8bf5-6a2f938723f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,15 +71,23 @@
       <name>src</name>
       <type>Main</type>
       <value>https://sportal365images.com/process/smp-images-production/assets/team/logo/450-Benfica-logo.png</value>
-      <webElementGuid>03d1c7c8-8fb3-4dff-8964-29e41ef85e23</webElementGuid>
+      <webElementGuid>8e6edbc5-aed4-4a5a-bd80-96fa3e83eb41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;corpo&quot;)/div[@class=&quot;homepage-container&quot;]/div[@class=&quot;livescore-bar-widget mb-15 clearfix&quot;]/div[@class=&quot;row mt-10&quot;]/section[@class=&quot;row-clubes pb-0&quot;]/section[@class=&quot;overflow-ini clearfix pb-0&quot;]/div[@class=&quot;col-md-12 opcoes&quot;]/div[@class=&quot;col-md-12 abola-seccao clubes&quot;]/div[@class=&quot;pull-left lista-clubes col-md-8 col-sm-7 col-xs-12 padding-0&quot;]/div[@class=&quot;lista-clubes linha-clubes scrollbar scrollbar-x&quot;]/div[@class=&quot;caixa semPadding clube&quot;]/a[1]/img[@id=&quot;rptClassificacaoPais_imgLogo_0&quot;]</value>
-      <webElementGuid>f7a59a2b-6f54-49a7-9a90-0062be4a39b3</webElementGuid>
+      <value>id(&quot;corpo&quot;)/div[@class=&quot;homepage-container&quot;]/div[@class=&quot;row homepage mt-5&quot;]/div[@class=&quot;livescore-bar-widget mb-15 clearfix&quot;]/div[@class=&quot;row mt-10&quot;]/section[@class=&quot;row-clubes pb-0&quot;]/section[@class=&quot;overflow-ini clearfix pb-0&quot;]/div[@class=&quot;col-md-12 opcoes&quot;]/div[@class=&quot;col-md-12 abola-seccao clubes&quot;]/div[@class=&quot;pull-left lista-clubes col-md-8 col-sm-7 col-xs-12 padding-0&quot;]/div[@class=&quot;lista-clubes linha-clubes scrollbar scrollbar-x&quot;]/div[@class=&quot;caixa semPadding clube&quot;]/a[1]/img[@id=&quot;rptClassificacaoPais_imgLogo_0&quot;]</value>
+      <webElementGuid>4e8d08d2-a9ba-46cc-b9bb-5fdea84e61cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Benfica logo</value>
+      <webElementGuid>4f4c831f-7b46-41a7-b8bc-f32a75b97912</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +95,39 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//img[@id='rptClassificacaoPais_imgLogo_0'])[2]</value>
-      <webElementGuid>b10d90c9-65a7-4c3b-ab00-5ea634257150</webElementGuid>
+      <webElementGuid>a1478da9-48ca-4835-b8ee-8a92d7b77fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corpo']/div/div[5]/div/div/section/section/div/div/div[2]/div/div[4]/a/img</value>
+      <webElementGuid>977c549f-73cf-4926-849d-8488face7c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Benfica logo']</value>
+      <webElementGuid>7e68ce7e-2cc8-47a8-ae4a-8796e645acbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>90360381-2e49-4e26-a014-d832dd1fe70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'rptClassificacaoPais_imgLogo_0' and @title = 'Benfica - 80 pontos' and @src = 'https://sportal365images.com/process/smp-images-production/assets/team/logo/450-Benfica-logo.png' and @alt = 'Benfica logo']</value>
+      <webElementGuid>2c199967-98b7-49ac-9ce2-322efde4be0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,14 +144,6 @@
       <type>Main</type>
       <value>//img[@title='Benfica - 29 pontos']</value>
       <webElementGuid>76a82945-50eb-4099-bb09-f685510ee22c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/a/img</value>
-      <webElementGuid>5de7bcae-449a-4fd1-949a-b33b53795cd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9b2553da-2379-441d-ae0e-54a2606db8fb</webElementGuid>
+      <webElementGuid>7dabbc2e-f8ab-425c-812c-f963c3a281c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link eventAnalytics benfica</value>
-      <webElementGuid>0bd99a59-b21d-4b35-b489-02dc9c91909a</webElementGuid>
+      <webElementGuid>4d195f49-756f-4691-8245-158e9a3dac74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-analytics-action</name>
       <type>Main</type>
-      <value>REF_2</value>
-      <webElementGuid>927c5011-bcaf-4179-95df-9b1d8fd33ed6</webElementGuid>
+      <value>REF_4</value>
+      <webElementGuid>26822646-aeee-4d49-a045-fe23f95bf8cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>data-analytics-label</name>
       <type>Main</type>
       <value>/futebol/futebol-nacional/liga-bwin/benfica?ref=Masterpage_MenuDestaque</value>
-      <webElementGuid>42dbbc55-19c2-443a-a859-bd735e6e64d4</webElementGuid>
+      <webElementGuid>4432c5fa-8404-40df-8567-5b4aeb57b9f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>data-category</name>
       <type>Main</type>
       <value>Geral</value>
-      <webElementGuid>4afe0411-d93b-4663-bede-9e01f07f0661</webElementGuid>
+      <webElementGuid>02cd04aa-a52c-4e3e-920e-4e2159251fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>MenuBarra</value>
-      <webElementGuid>a49761f4-056b-4f53-a7c3-5cdc7f9957f0</webElementGuid>
+      <webElementGuid>3ff09701-396e-4995-a702-fe9874359f41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>data-consumer</name>
       <type>Main</type>
       <value>ga,piwik</value>
-      <webElementGuid>b25c9fc9-6ce5-4bab-b98a-9cb90920f2e4</webElementGuid>
+      <webElementGuid>d664da7d-6209-4fcf-97d2-25f934177f49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>data-areaid</name>
       <type>Main</type>
       <value>81</value>
-      <webElementGuid>b60b323c-e7e9-4945-9576-e9359aee27c9</webElementGuid>
+      <webElementGuid>8715f72e-13e4-415e-b427-ae1fe16f2c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,15 +87,15 @@
       <name>href</name>
       <type>Main</type>
       <value>/futebol/futebol-nacional/liga-bwin/benfica?ref=Masterpage_MenuDestaque</value>
-      <webElementGuid>4e2758de-4f21-44fb-a237-94bf7873ef20</webElementGuid>
+      <webElementGuid>2abfb9e6-e83a-4009-bda9-0751224746c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>wbo-id</name>
       <type>Main</type>
-      <value>14</value>
-      <webElementGuid>447ddc6e-d996-40b3-a257-eeb818bcfe13</webElementGuid>
+      <value>16</value>
+      <webElementGuid>8365a1a0-b60b-4eca-a085-d8378dc40ee4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -102,7 +103,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Benfica</value>
-      <webElementGuid>5f68f56f-0085-48d2-b05c-8d852c6e0f15</webElementGuid>
+      <webElementGuid>ab12b2d0-e717-4e16-9097-d61065929749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/header[@class=&quot;header&quot;]/div[@class=&quot;hideHeader&quot;]/section[@class=&quot;canais_topo&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;nav&quot;]/a[@class=&quot;nav-link eventAnalytics benfica&quot;]</value>
-      <webElementGuid>6c3569fe-7eb5-45ef-82b2-9ee4501cbbc4</webElementGuid>
+      <webElementGuid>3ed521f3-4d4b-4c32-99c7-6f37b4386d75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +119,39 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Benfica')]</value>
-      <webElementGuid>a28fc4fd-b568-4c3f-9b59-347827310235</webElementGuid>
+      <webElementGuid>b9ca0630-2a50-4b60-b5ba-601cc9e940fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sporting'])[1]/following::a[1]</value>
+      <webElementGuid>518e9853-c7b9-4a0b-a0b8-fdfd7e71d214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FC Porto'])[1]/preceding::a[1]</value>
+      <webElementGuid>48b027ee-95da-41a7-8fe8-925e7e4fa8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mercado'])[1]/preceding::a[2]</value>
+      <webElementGuid>ef6154d9-ed49-427d-b0e4-5bd2551b7732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Benfica']/parent::*</value>
+      <webElementGuid>af78be69-6d75-4f14-9315-f52de7d38ce3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +159,23 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/futebol/futebol-nacional/liga-bwin/benfica?ref=Masterpage_MenuDestaque')]</value>
-      <webElementGuid>cfba3911-5e46-4e66-abe5-cd60649b0c64</webElementGuid>
+      <webElementGuid>69ef0e43-bd38-48b7-b7db-4ccdbc4f6d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>722671d1-6d51-4c65-9742-7cc02f4fefc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/futebol/futebol-nacional/liga-bwin/benfica?ref=Masterpage_MenuDestaque' and (text() = 'Benfica' or . = 'Benfica')]</value>
+      <webElementGuid>669ee36c-e241-4d0f-8307-b0c67b714442</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,13 +184,5 @@
       <type>Main</type>
       <value>//a[3]</value>
       <webElementGuid>0c794de3-4c06-4e40-b9b3-091ba1890c4d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/futebol/futebol-nacional/liga-bwin/benfica?ref=Masterpage_MenuDestaque' and (text() = 'Benfica' or . = 'Benfica')]</value>
-      <webElementGuid>1eb1167d-0525-4821-a590-66756f7302df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

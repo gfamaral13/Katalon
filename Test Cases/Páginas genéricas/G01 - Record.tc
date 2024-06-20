@@ -4,5 +4,6 @@
    <name>G01 - Record</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>57772e78-6305-4347-a356-f519cfd73769</testCaseGuid>
 </TestCaseEntity>
